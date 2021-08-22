@@ -1,31 +1,53 @@
+Start Test Case
+Test Case 0
 hello, python world!
 hello, python world!
 hello, python world!
 hello, python world!
+
+Test Case 1
 hello, 'python world'
 hello, "python world"
 hello, "python world"
 hello, 'python world'
+
+Test Case 2
 Ada Lovelace
 ADA LOVELACE
 ada lovelace
+
+Test Case 3
 ada lvoelace
 Hello, Ada Lvoelace
 Hello, Ada Lvoelace
+
+Test Case 4
 	Python is an Amaziong 
 	Language
+
+Test Case 5
       python with right space     
       python with right space
 python with right space     
 python with right space
+
+Test Case 6
 2
 2
 9
 1.0
 27
 2.0
+
+Test Case 7
 12000000000
+
+Test Case 8
 0 0 1.0
+
+Test Case 9
+
+Test Case 10
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
